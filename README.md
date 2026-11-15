@@ -54,7 +54,7 @@ src/
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/cine-stream.git
+git clone https://github.com/y-ro9/cine-stream.git
 cd cine-stream
 ```
 
