@@ -3,7 +3,7 @@
 Cine-Stream is a high-performance, Netflix-lite Single Page Application (SPA) built for discovering movies. Developed as the final deliverable for Sprint 8 (Phase 3 - Core Engineering), this project focuses heavily on **Performance Optimization**, **Client-Side Polish**, and **AI Integration**.
 
 ## 🌐 Live Demo
-- **Deployed URL:** [Add your Vercel Link Here]
+- **Deployed URL:** [https://cine-stream-pi-amber.vercel.app/](https://cine-stream-pi-amber.vercel.app/)
 - **Demo Video:** [Add your 3-min QA Video Link Here]
 
 ---
