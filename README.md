@@ -48,6 +48,8 @@ src/
 └── utils/        # Helper functions (LocalStorage logic)
 ```
 
+---
+
 ## ⚙️ Environment Setup & Installation
 
 ### Clone the repository:
@@ -60,6 +62,7 @@ Install dependencies:
 ```bash
 npm install
 ```
+
 ### Configure Environment Variables:
 Create a `.env` file in the root directory and add your API keys (refer to `.env.example` if available):
 ```env
@@ -75,6 +78,8 @@ npm run dev
 ## 🧠 AI Debugging & Prompts Log
 
 As per the "Learn, Don't Copy" mandate, all AI pair-programming sessions, architectural decisions, and debugging steps (including API deprecation fixes) are documented in the `Prompts.md` file.
+
+---
 
 Developed with ❤️ for Prodesk IT Sprint 8.
 
